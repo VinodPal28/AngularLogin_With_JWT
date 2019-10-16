@@ -121,6 +121,7 @@
           }
         }
       }
-    }},
+    }
+  },
   "defaultProject": "Angular7-With-JWT-Token"
 }
